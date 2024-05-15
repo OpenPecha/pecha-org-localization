@@ -227,7 +227,7 @@ const Strings = {
     "Search for": "འདི་འཚོལ་ཞིབ།",
     "Search for:": "འདི་འཚོལ་ཞིབ།",
     "Search for Texts or Keywords Here": "འདིར་དཔེ་ཆ་དང་ཡང་ན་ཚིག་གནད་ཚོལ།",
-    "Versions": "ཐོན་རིམ་ཁག",
+    "Versions": "དཔེ་རྒྱུན།",
     "Version Open": "Version Open",
     "About": "སྐོར།",
     "Current Version": "ད་ལྟའི་ཐོན་རིམ།",
@@ -486,7 +486,7 @@ const Strings = {
     "Your feedback is greatly appreciated. You can now edit your sheets again using the old source sheet editor. If you have any questions or additional feedback you can reach us at": "ཁྱེད་ཀྱིས་བསམ་འཆར་ཕུལ་བ་ལ་རྗེས་སུ་ཡི་རང་ཞུ། ད་ལྟ་ཁྱེད་ཀྱིས་བསྐྱར་དུ་དཔེ་ཆའི་དོན་ཚན་གྱི་ཤོག་ངོས་རྩོམ་སྒྲིག་བྱེད་ཆས་རྙིང་བ་དེ་བཀོལ་ནས་རང་ཉིད་ཀྱི་ཤོག་ངོས་རྩོམ་སྒྲིག་བྱེད་ཆོག གལ་སྲིད་ཁྱེད་ལ་དོགས་འདྲི་དང་བསམ་འཆར་འཕར་མ་སོགས་ཡོད་ན་འདི་ནས་ང་ཚོར་ཐད་ཀར་འབྲེལ་བ་གནང་རོགས།",
 
     //TextTableofContents
-    "Contents": "ནང་དོན་ཁག",
+    "Contents": "ས་བཅད།",
     "Download": "ཕབ་ལེན།",
     "Table of Contents": "ནང་དོན་རེའུ་མིག",
     "Hebrew Versions": "བོད་སྐད།",
